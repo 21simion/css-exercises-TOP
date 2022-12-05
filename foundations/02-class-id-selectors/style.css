@@ -1,0 +1,22 @@
+.oddnr,
+.nr3{
+    background-color: #eb7c80;
+    font-family: "Verdana", "DejaVu sans", sans-serif;
+
+}
+
+.nr3{
+    font-size: 24px;
+
+}
+
+#nr2{
+    font-size: 36px;
+    color: #0a56f0;
+}
+
+#nr4{
+    background-color: #04ff42;
+    font-size: 24px;
+    font-weight: 700;
+}
